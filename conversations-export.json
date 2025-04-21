@@ -1,0 +1,19 @@
+{
+    "total": 2,
+    "qualified": 2,
+    "recent": [
+        {
+            "id": 2,
+            "user_message": "Bagaimana cara deposit di Indokasino?",
+            "preview": "Cara deposit di Indokasino cukup mudah bosku. Berikut langkah-langkahnya: 1. Login ke akun Indokasin",
+            "created_at": "2025-04-16 08:48:26"
+        },
+        {
+            "id": 1,
+            "user_message": "Apa itu sportsbook di Indokasino?",
+            "preview": "Sportsbook di Indokasino adalah platform taruhan olahraga yang memungkinkan pengguna untuk memasang ",
+            "created_at": "2025-04-16 08:48:26"
+        }
+    ],
+    "last_updated": "2025-04-18 02:04:27"
+}
